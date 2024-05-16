@@ -1,7 +1,7 @@
 # Anony-scanner
 Anony-Scanner - Pentest the web
 
-Author: [Anonynusman]
+Author: [Sidheswar XYZ]
 
 Disclaimer: I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for penetration testing.
 
@@ -38,8 +38,3 @@ git clone https://github.com/Anonynusman/Anony-scanner
 *chmod +x scan.py*
 
 *python2 scan.py*
-
-
-# Special Thanks To:
-  *Honey Hacked*
-
